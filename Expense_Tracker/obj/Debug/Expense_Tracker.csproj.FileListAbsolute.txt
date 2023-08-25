@@ -1,0 +1,10 @@
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe.config
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.pdb
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.AssemblyReference.cache
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Expense_Tracker.resources
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Properties.Resources.resources
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.GenerateResource.cache
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.exe
+C:\Users\Lulu\source\repos\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.pdb
